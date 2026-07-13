@@ -50,6 +50,7 @@ Table of Contents:
 |`AntAngelMed`|-|[[HF (100B)](https://huggingface.co/MedAIBase/AntAngelMed)]|-|[[Github](https://github.com/MedAIBase/AntAngelMed)]|
 |`Baichuan-M3`|-|[[HF (235B)](https://huggingface.co/baichuan-inc/Baichuan-M3-235B)]|-|-|
 |`MedPsy`|[Blog](https://huggingface.co/blog/qvac/medpsy)|[[HF (1.7B/4B)](https://huggingface.co/collections/qvac/medpsy)]|-|-|
+|`MediPhi`|[[arXiv](https://arxiv.org/abs/2505.10717)]|[[HF (4B)](https://huggingface.co/collections/microsoft/mediphi)]|-|-|
 
 
 <div align="right">
