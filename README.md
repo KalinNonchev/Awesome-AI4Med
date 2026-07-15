@@ -135,7 +135,7 @@ Table of Contents:
 |`BreastStage`|[[arXiv](https://arxiv.org/abs/2606.04911)]|[[HF](https://www.modelscope.cn/datasets/YYangYang/BreastStage)]|1.86M|
 |`OpenMedReason`|[[arXiv](https://arxiv.org/pdf/2606.12169)]|[[HF](https://huggingface.co/datasets/neginb/OpenMedReason)]|193k|
 |`TCGA virtual ST atlas`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)]|[[HF](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas)]|~28.7k slides / ~296M spots|
-|`HEST Xenium virtual ST`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)]|[[HF](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics)]|59 slides / ~13M spots|
+|`HEST Xenium virtual ST`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)]|[[HF](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics)]|59 slides / ~13.3M cells|
 
 
 <div align="right">
